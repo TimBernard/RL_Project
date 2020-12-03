@@ -1,0 +1,3 @@
+from gym_pendulum_ssrl.pendulum_ssrl import PendulumSSRLEnv
+from gym_pendulum_ssrl.pendulum_ssrl_extrahard import PendulumSSRLExtraHardEnv
+
